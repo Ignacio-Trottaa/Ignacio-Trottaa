@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ignacio 👋</h1>
+<h1 align="center">Hi, I'm Ignacio</h1>
 <h3 align="center">Student Software Developer from Argentina 🇦🇷</h3>
 
 <h3 align="left">Languages:</h3>
